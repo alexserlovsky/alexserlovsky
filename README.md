@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexserlovsky
 - 👀 I’m interested in ai and machine learning
 - 🌱 I’m currently learning python for analytics
-- 💞️ I’m looking to collaborate on any fun projects I am always up for learning something new!
+- 💞️ I’m looking to collaborate on any fun projects. I am always up for learning something new!
 - 📫 How to reach me serlovsky@gmail.com
 
 <!---
