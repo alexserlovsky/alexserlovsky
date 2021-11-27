@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alexserlovsky
-- 👀 I’m interested in ai and machine learning for data science
-- 🌱 I’m currently learning python for analytics
-- 💞️ I’m looking to collaborate on any fun projects. I am always up for learning something new!
-- 📫 How to reach me serlovsky@gmail.com
+- 👀 I’m interested in working with Data and Software Development
+- 🌱 I’m currently learning Data Analytics, JavaScript Algorithms & Data Structures, Front-End, Data Visualization, APIs and Microservices, and QA.
+- 💞️ I’m looking to collaborate on any fun projects. I am always up for a challenge!
+- 📫 How to reach me alexserlovsky@gmail.com
 
 <!---
 alexserlovsky/alexserlovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
