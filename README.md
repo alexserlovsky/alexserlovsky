@@ -1,7 +1,7 @@
-- 👋 Hello World!, I’m @alexserlovsky
-- 👀 I’m interested in learning a wide range of skills to better problem solve.
-- 🌱 I’m currently learning advanced concepts in MS Azure !
-- 💞️ I’m always looking for opportunities to learn, grow and develop! Feel free to reach out to me to collaborate! I am always up for a challenge!!
+- 👋 Hello World!, 
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Apache Kafka 
+- 💞️ I’m always looking for opportunities to learn, grow and develop
 - 📫 Find me on Linkedin ! 
 
 <!---
